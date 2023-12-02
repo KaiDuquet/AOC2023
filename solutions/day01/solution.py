@@ -1,5 +1,3 @@
-import os
-
 def solution(lines: list[str]) -> int:
 	total = 0
 	for line in lines:
